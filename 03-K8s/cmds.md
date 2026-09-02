@@ -71,6 +71,8 @@ kubectl logs pod_name
 kubectl describe pod podname
 ```
 
+---
+*Diagrams generated for personal study notes.*
 
 
 
